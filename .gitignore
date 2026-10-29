@@ -1,0 +1,34 @@
+# Regenerable project output.
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/.vs/
+
+# Observed generated solution and upgrade output.
+/*.sln
+/*.slnx
+/Backup/
+/UpgradeLog*.htm
+/UpgradeLog*.xml
+/_UpgradeReport_Files/
+
+# Confirmed project-local plugin output.
+/Plugins/VisualStudioTools/Binaries/
+/Plugins/VisualStudioTools/Intermediate/
+/Plugins/VisualStudioTools/Saved/
+/Plugins/VisualStudioTools/DerivedDataCache/
+/Plugins/VisualStudioTools/.vs/
+
+# Private machine integration and the currently UI-only editor default.
+/.codex/
+/Config/DefaultEditorPerProjectUserSettings.ini
+
+# Root-local environment credentials; examples require secret review.
+/.env
+/.env.*
+!/.env.example
+
+# Preserve Content, external packages, SourceArt, authored Build resources,
+# plugin sources/descriptors/licenses/docs/scripts, and binary dependencies.
+# Do not add broad binary-extension or *_BuiltData.uasset exclusions.

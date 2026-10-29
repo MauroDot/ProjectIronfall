@@ -1,0 +1,23 @@
+# Unreal-generated plugin output.
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+# Local IDE state.
+/.vs/
+*.suo
+*.user
+*.rsuser
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Generated output/dependencies of the upstream packaging workflow.
+/bin/
+/Scripts/packages/
+
+# Retain Source, Config, Docs/images, LICENSE, descriptors, build.proj,
+# Scripts/SignDetached.proj, Scripts/packages.config, SourceArt and Build.
+# Required libraries must be reviewed, not hidden by extension.
